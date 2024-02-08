@@ -11,11 +11,13 @@ dari kesalahan yang pernaj di lakukan maka
 
 Lakukan langkah berikut
 
-buka aplikasi git bash
+1. buka aplikasi git bash
 
-git clone https://github.com/nurkholisal3kanjarmaruf/Landing-Page.git
+2. git clone https://github.com/nurkholisal3kanjarmaruf/Landing-Page.git
 
-tempatkan posisi folder pada folder yang kamu gunakan
+3. tempatkan posisi folder pada folder yang kamu gunakan lalu masukan ke dalam kode editor favorit kalian dan open in browser
+
+maka kurang lebih akan menampilkan hasil seperti di bawah
 
 # Preview
 
