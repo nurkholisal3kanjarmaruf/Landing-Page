@@ -6,3 +6,7 @@ dari kesalahan yang pernaj di lakukan maka
 
 1. identifikasi kelas
 2. memnbuat prototipe sederhana untuk di jadikan acuan coding ke depan
+
+# Preview
+
+![image](assets/download.jpg)
