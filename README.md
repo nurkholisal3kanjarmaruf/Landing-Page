@@ -15,7 +15,7 @@ Lakukan langkah berikut
 
 2. git clone https://github.com/nurkholisal3kanjarmaruf/Landing-Page.git
 
-3. tempatkan posisi folder pada folder yang kamu gunakan lalu masukan ke dalam kode editor favorit kalian dan open in browser
+3. tempatkan posisi folder pada folder yang kamu gunakan lalu masukan ke dalam kode editor favorit kalian dan open in browser atau kalian bisa membuka tautan berikut https://landing-page-liard-nine.vercel.app/
 
 maka kurang lebih akan menampilkan hasil seperti di bawah
 
